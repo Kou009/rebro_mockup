@@ -56,9 +56,7 @@ a:hover {
 
 
 
-
 /* =Info Bar  フッタの指定
-
 -------------------------------------------------------------- */
 #info-bar {   /*フッタの色指定*/
   background-color: #1abc9c;
@@ -77,9 +75,7 @@ a:hover {
     display: inline;
     width: 50%; }
 
-
     .col-lg-3{
-
       float: left;
       margin-left: 10%;
     }
